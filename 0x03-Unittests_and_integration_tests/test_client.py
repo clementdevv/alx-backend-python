@@ -1,6 +1,6 @@
 
 
-# test_client.py
+#!/usr/bin/env python3
 import unittest
 from unittest.mock import patch
 from parameterized import parameterized
@@ -83,4 +83,6 @@ class TestGithubOrgClient(unittest.TestCase):
         mock_get_json.assert_called_once_with("http://example.com/repos")
         mock_public_repos_url.assert_called_once()
 
-        
+
+# def test_has_license(self)
+# [Got] FAILED [Expected] OK

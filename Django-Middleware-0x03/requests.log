@@ -1,0 +1,4 @@
+
+2025-07-27 21:30:00.123456 - User: Anonymous - Path: /admin/login/?next=/admin/
+2025-07-27 21:30:05.789012 - User: admin - Path: /admin/
+2025-07-27 21:30:10.456789 - User: Anonymous - Path: /api/chats/
